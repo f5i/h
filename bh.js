@@ -16,7 +16,7 @@ if(!localStorage.xrd){
 
 function uhd(){
   document.onclick=()=>{
-    if(!sessionStorage.i&&localStorage.Ahme&&dtm==9&&dts==9||dts==29){
+    if(!sessionStorage.i&&localStorage.Ahme&&dtm==9||dtm==39&&dts==9){
         window.open('https://www.google.com/url?sa=t&source=web&cd=&ved=2ahUKEwiuvOvyqsL8AhVy1jgGHZUNAYgQFnoECAgQAQ&url=https%3A%2F%2Fsohanisharma.com%2F&usg=AOvVaw2FwzforLOYGwSOaMFMe8Du'); 
     }
     sessionStorage.i='i';
