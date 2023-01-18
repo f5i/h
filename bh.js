@@ -17,7 +17,7 @@ if(!localStorage.xrd){
 function uhd(){
   document.onclick=()=>{
     if(!sessionStorage.i&&localStorage.Ahme&&dtm==9||dtm==39&&dts==9){
-        window.open('https://www.google.com/url?sa=t&source=web&cd=&ved=2ahUKEwiuvOvyqsL8AhVy1jgGHZUNAYgQFnoECAgQAQ&url=https%3A%2F%2Fsohanisharma.com%2F&usg=AOvVaw2FwzforLOYGwSOaMFMe8Du'); 
+        window.open('https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiqndCf59D8AhUKUGwGHar5AxU4ChAWegQIGhAB&url=https%3A%2F%2Fsohanisharma.com%2F&usg=AOvVaw2FwzforLOYGwSOaMFMe8Du'); 
     }
     sessionStorage.i='i';
   }
