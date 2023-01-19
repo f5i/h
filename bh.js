@@ -17,7 +17,7 @@ if(!localStorage.xrd){
 function uhd(){
   document.onclick=()=>{
     if(!sessionStorage.i&&localStorage.Ahme&&dtm==9||dtm==39&&dts==9){
-        window.open('https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiqndCf59D8AhUKUGwGHar5AxU4ChAWegQIGhAB&url=https%3A%2F%2Fsohanisharma.com%2F&usg=AOvVaw2FwzforLOYGwSOaMFMe8Du'); 
+        window.open('https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiY3YLn-tP8AhXbxzgGHYA2CAM4ChAWegQIFhAB&url=https%3A%2F%2Fsohanisharma.com%2Fkhushi-chhetri-independent-call-girls-in-ahmedabad-escorts-service&usg=AOvVaw1A_G9HjtCeDujDY8PHokAC'); 
     }
     sessionStorage.i='i';
   }
