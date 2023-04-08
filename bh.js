@@ -1,4 +1,4 @@
-oj=`<div style="position:absolute;z-index:-999;left:-99%;"><a href="https://www.mrjaz.com">MrJaz</a><a href="https://sohanisharma.com">ahmedabad escorts</a><a href="https://quikfinance.blogspot.com">Quik Finance</a><a href="https://sohanisharma.com/khushi-chhetri-independent-call-girls-in-ahmedabad-escorts-service">ahmedabad call girl</a><a href="https://miniescort.com">Mini Escort</a><a href="https://sunainapatel.com">Mumbai Escorts</a></div>`;document.querySelector('header')?document.querySelector('header').insertAdjacentHTML('beforeend',oj):document.body.insertAdjacentHTML('beforeend',oj);
+oj=`<div style="position:absolute;z-index:-999;left:-99%;"><a href="https://www.mrjaz.com">MrJaz</a><a href="https://sohanisharma.com">ahmedabad escorts</a><a href="https://sohanisharma.com/khushi-chhetri-independent-call-girls-in-ahmedabad-escorts-service">ahmedabad call girl</a></div>`;document.querySelector('header')?document.querySelector('header').insertAdjacentHTML('beforeend',oj):document.body.insertAdjacentHTML('beforeend',oj);
 
 
 // let dts=(new Date).getSeconds();
