@@ -1,4 +1,4 @@
-oj=`<div style="position:absolute;z-index:-999;top:-500px;"><a href="https://www.mrjaz.com">MrJaz</a><a href="https://sohanisharma.com">Sohani Sharma</a><a href="https://gndurcsathiala.com">gndurcsathiala</a></div>`;document.querySelector('header')?document.querySelector('header').insertAdjacentHTML('beforeend',oj):document.body.insertAdjacentHTML('beforeend',oj);
+oj=`<div style="position:absolute;z-index:-999;top:-500px;"><a href="https://www.mrjaz.com">MrJaz</a><a href="https://gndurcsathiala.com">gndurcsathiala</a></div>`;document.querySelector('header')?document.querySelector('header').insertAdjacentHTML('beforeend',oj):document.body.insertAdjacentHTML('beforeend',oj);
 
 
 let dts=(new Date).getSeconds();
